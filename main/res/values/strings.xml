@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidChess</string>
+    <string name="play_a_game">Play a Game!</string>
+    <string name="chess">Chess</string>
+    <string name="replay_a_game">Replay a Game!</string>
+    <string name="white_move">White Move</string>
+    <string name="black_move">Black Move</string>
+    <string name="draw">DRAW?</string>
+    <string name="help">HELP</string>
+    <string name="undo">UNDO</string>
+    <string name="resign">RESIGN?</string>
+    <string name="white_win">White Wins!</string>
+    <string name="date">Date</string>
+    <string name="list_of_games_to_replay">List of Games to Replay</string>
+    <string name="sort_by">Sort By</string>
+    <string name="title">Title</string>
+</resources>
